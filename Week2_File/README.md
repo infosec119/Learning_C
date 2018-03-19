@@ -28,3 +28,11 @@ printf() 포맷 스트링 중 "%x"를 이용해,
 char* get_hex_line(FILE* fp); (줄을 하나 출력한다.)
 void show_hex_line(char* line); (줄을 입력받아 예쁘개 바꿔본다.)
 ```
+
+## PPT
+
+* 다음 중 택1
+
+주요 파일에 대한 파일 시그니쳐
+
+소켓 프로그래밍에 대한 소개
